@@ -1,4 +1,4 @@
-# Led-control-using-Arduino
+# Led-control-using-Arduino.
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
