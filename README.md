@@ -63,10 +63,9 @@ Weighing Machines </br>
 
 ## OUTPUT
 
-![Screenshot 2024-12-14 094207](https://github.com/user-attachments/assets/44acf8f4-1f86-4b0f-a5ba-3ff6657c20b5)
+![iot e1](https://github.com/user-attachments/assets/4fe93276-8463-42bb-9216-fe1b337f58f3)
 
-![image](https://github.com/user-attachments/assets/2c4ce95e-371c-47a1-805b-9ad6856a1990)
-
+![iot e1 1](https://github.com/user-attachments/assets/8b751229-d6d3-4dec-aad1-a132e02e40e5)
 
 
 ## RESULT
