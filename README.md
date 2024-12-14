@@ -62,7 +62,11 @@ Weighing Machines </br>
 ## PROGRAM
 
 ## OUTPUT
-![Screenshot 2024-12-14 081141](https://github.com/user-attachments/assets/73464ce8-d418-4298-8dc6-9574e61dcb38)
+
+![Screenshot 2024-12-14 094207](https://github.com/user-attachments/assets/44acf8f4-1f86-4b0f-a5ba-3ff6657c20b5)
+
+![image](https://github.com/user-attachments/assets/2c4ce95e-371c-47a1-805b-9ad6856a1990)
+
 
 
 ## RESULT
