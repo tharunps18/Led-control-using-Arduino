@@ -1,6 +1,6 @@
 # NAME: THARUN P S
-#REF NO: 24900117
-#EX.NO:1 Led-control-using-Arduino.
+# REF NO: 24900117
+# EX.NO:1 Led-control-using-Arduino.
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
